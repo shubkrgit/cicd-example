@@ -1,0 +1,4 @@
+Hello, World!
+
+This is a simple text file added to demonstrate CI/CD.
+When pushed to Git, it will trigger the GitHub Actions workflow.
